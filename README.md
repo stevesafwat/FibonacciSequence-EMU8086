@@ -20,12 +20,19 @@ This project is a console-based Fibonacci series generator written in x86 Assemb
 
 -Print numbers character-by-character
 
+
+
+
 🛠 Technologies Used
 -x86 Assembly Language
 
 -TASM/MASM-compatible syntax
 
 -MS-DOS Interrupts (INT 21h) for input/output
+
+
+
+
 
 
 🔍 What You Can Learn
