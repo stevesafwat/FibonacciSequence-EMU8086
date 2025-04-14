@@ -21,7 +21,6 @@ This project is a console-based Fibonacci series generator written in x86 Assemb
 
 -Print numbers character-by-character
 
--------------------------------------------------------------------------------------------------------------
 
 
 🛠 Technologies Used
@@ -33,7 +32,6 @@ This project is a console-based Fibonacci series generator written in x86 Assemb
 -MS-DOS Interrupts (INT 21h) for input/output
 
 
---------------------------------------------------------------------------------------------------------------
 
 
 
